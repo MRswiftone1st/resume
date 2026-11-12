@@ -7,3 +7,9 @@
 1. [Monforton Elementary and Middle School](https://monfortonschool.org/)
 2. [Gallatin High School](https://ghs.bsd7.org/)
 3. [Western Washington University](https://www.wwu.edu/)
+
+### Research Interests
+1. Conservation
+2. Endangered Species Restoration
+3. Paleoecology
+4. Toxilogical Impacts
